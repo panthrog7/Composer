@@ -1,0 +1,15 @@
+{
+  "name": "panos/www",
+  "authors": [
+    {
+      "name": "Panos",
+      "email": "pgiannakg7@yahoo.gr"
+    }
+  ],
+  "require": {},
+  "autoload": {
+    "ps-4": {
+      "app\\": "./src"
+    }
+  }
+}
