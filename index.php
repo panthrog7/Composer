@@ -1,8 +1,10 @@
 <?php
-use \app\test;
+#use src\test;
 require_once './vendor/autoload.php';
+include './src/test.php';
 
-$person = new Person();
+// $person = new Person();
+// $person->hallo();
 
 ?>
 
